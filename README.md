@@ -16,10 +16,12 @@ Ref: first-api-insert-product.png
 Build api for store offer products by user. We stored offer products and users in database by store. 
 # List of offer products by User id
 Ex:http://127.0.0.1:8000/products/<user_id>/
+
 Ref:secound-api-all-offer-products-by-user_id.png
 
 
 # offer products by User id and SKU
 http://127.0.0.1:8000/products/<user_id>/<com_sku>/
+
 Ref:secound-api-offer-prduct-sku-and-user-id.png
 
